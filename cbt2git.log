@@ -1,0 +1,8 @@
+2023-08-06 01:29:04.569651 - Initialized conversion of CBT162
+2023-08-06 01:29:04.626758 - Received CBT.V505.FILE162.PDS from FILE162.XMI 
+2023-08-06 01:29:04.629336 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE162.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:29:04.630464 - Found @FILE162.txt (text/plain) in CBT.V505.FILE162.PDS, moved to PDS/@FILE162
+2023-08-06 01:29:04.631511 - Found ASMJCL.txt (text/plain) in CBT.V505.FILE162.PDS, moved to PDS/ASMJCL
+2023-08-06 01:29:04.632618 - Found MANUAL.txt (text/plain) in CBT.V505.FILE162.PDS, moved to PDS/MANUAL
+2023-08-06 01:29:04.633581 - Found SAMPLE.txt (text/plain) in CBT.V505.FILE162.PDS, moved to PDS/SAMPLE
+2023-08-06 01:29:04.633591 - Found XREFASM.bin containing application/octet-stream, moved to PDS/XREFASM
